@@ -1,4 +1,4 @@
-## DIIA  (Neurocomputin 2023): Official Project Webpage
+## DIIA  (Neurocomputing 2023): Official Project Webpage
 
 This is the PyTorch Implementation for our paper:
 
